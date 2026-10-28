@@ -102,7 +102,7 @@ I downloaded 7-Zip from the official site. It is needed to extract the compresse
 I downloaded the latest VirtualBox from the official site and installed it with the default options.
 
 ![VirtualBox download page](screenshots/02-virtualbox-website.png)
-![VirtualBox installed, Help > About shows the version](screenshots/02b-virtualbox-installed.png)
+
 
 ---
 
@@ -153,14 +153,11 @@ Cable Connected:    Yes
 
 Under **General → Advanced**, I set both **Shared Clipboard** and **Drag'n'Drop** to **Bidirectional**.
 
-![Clipboard and drag and drop](screenshots/05-2-clipboard-dragdrop.png)
-
 ### 5.3 Shared folder
 
 I shared the host's Downloads folder with Auto-mount enabled and Full access. Inside Kali it appears under `/media/sf_Downloads`.
 
 ![Shared folder settings](screenshots/05-3-shared-folder.png)
-![Shared folder visible inside Kali](screenshots/05-3b-shared-folder-in-kali.png)
 
 ### 5.4 System settings
 
@@ -278,7 +275,7 @@ This lab is for education and authorized practice only. Hacking is legal only on
 **YOUR NAME**\
 Cybersecurity Intern, Batch YOUR BATCH
 
-LinkedIn: [YOUR LINKEDIN PROFILE URL](https://www.linkedin.com/in/aryan-chavan-a5a637365/)
+LinkedIn: [Profile](https://www.linkedin.com/in/aryan-chavan-a5a637365/)
 
 ---
 
