@@ -278,7 +278,7 @@ This lab is for education and authorized practice only. Hacking is legal only on
 **YOUR NAME**\
 Cybersecurity Intern, Batch YOUR BATCH
 
-LinkedIn: [YOUR LINKEDIN PROFILE URL](https://www.linkedin.com/in/YOUR-PROFILE/)
+LinkedIn: [YOUR LINKEDIN PROFILE URL](https://www.linkedin.com/in/aryan-chavan-a5a637365/)
 
 ---
 
