@@ -192,19 +192,6 @@ sudo nmcli connection up "Wired connection 1"
 A fixed IP makes the lab easier to document and to refer to in later exercises.
 
 ---
-
-## Step 7. Create a Clean VM Snapshot
-
-Once everything worked, I took a snapshot in VirtualBox (**Machine → Take Snapshot**).
-
-```text
-Snapshot name: Fresh Kali - network setup working
-```
-
-This is my clean baseline. If a later experiment breaks the VM, I can restore it in a minute.
-
-![Snapshot taken](screenshots/08-snapshot.png)
-
 ---
 
 # 🔎 Lab Verification
@@ -215,9 +202,6 @@ This is my clean baseline. If a later experiment breaks the VM, I can restore it
 | 📡 Test gateway | `ping -c 4 10.0.0.1` | Successful replies |
 | 🌍 Test Internet by IP | `ping -c 4 8.8.8.8` | Successful replies |
 | 🔎 Test DNS | `ping -c 4 google.com` | Domain resolves and replies |
-
-![ip a output](screenshots/07a-ip-a.png)
-![Ping tests](screenshots/07b-ping-tests.png)
 
 ---
 
@@ -272,8 +256,8 @@ This lab is for education and authorized practice only. Hacking is legal only on
 
 # 👤 Author
 
-**YOUR NAME**\
-Cybersecurity Intern, Batch YOUR BATCH
+**Aryan Chavan**\
+Cybersecurity Intern, Networkwalks
 
 LinkedIn: [Profile](https://www.linkedin.com/in/aryan-chavan-a5a637365/)
 
