@@ -25,7 +25,7 @@ This project documents how I built a **virtual cybersecurity testing lab** on my
 
 The lab gives me a safe, isolated place to practice security skills without touching any real systems. It runs on a private virtual network, so more machines can be added later and used as targets for authorized testing.
 
-**Intern:** YOUR NAME  |  **Batch:** YOUR BATCH  |  **Task:** WK1-PM1
+**Intern:** Aryan Chavan  |  **Batch:** B084B  |  **Task:** WK1-PM1
 
 ---
 
@@ -257,7 +257,7 @@ This lab is for education and authorized practice only. Hacking is legal only on
 # 👤 Author
 
 **Aryan Chavan**\
-Cybersecurity Intern, Networkwalks
+Cybersecurity Intern, Networkwalks Batch- B084B
 
 LinkedIn: [Profile](https://www.linkedin.com/in/aryan-chavan-a5a637365/)
 
